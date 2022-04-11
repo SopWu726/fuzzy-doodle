@@ -1,0 +1,14 @@
+h1
+{
+	color: rgb(255, 255, 255); 
+	font-size: 40px;
+}
+body{
+	background-image:url("Gradients_05.jpg");
+	background-position: center;
+	background-size:cover;
+}
+#canvas{
+border:2px dashed lightcoral;
+background-color:whitesmoke;
+}
